@@ -17,7 +17,7 @@ BSU FAMCS (3 sem)
    * [6. Строго возрастающая без разрывов подпоследовательность](https://github.com/vbobovoz/Algorithms-and-Data-Structures/blob/main/Dynamic%20Programming/6.%20%D0%A1%D1%82%D1%80%D0%BE%D0%B3%D0%BE%20%D0%B2%D0%BE%D0%B7%D1%80%D0%B0%D1%81%D1%82%D0%B0%D1%8E%D1%89%D0%B0%D1%8F%20%D0%B1%D0%B5%D0%B7%20%D1%80%D0%B0%D0%B7%D1%80%D1%8B%D0%B2%D0%BE%D0%B2%20%D0%BF%D0%BE%D0%B4%D0%BF%D0%BE%D1%81%D0%BB%D0%B5%D0%B4%D0%BE%D0%B2%D0%B0%D1%82%D0%B5%D0%BB%D1%8C%D0%BD%D0%BE%D1%81%D1%82%D1%8C.cpp "6. Строго возрастающая без разрывов подпоследовательность")
    * [69.1. Кувшинки](https://github.com/vbobovoz/Algorithms-and-Data-Structures/blob/main/Dynamic%20Programming/69.1.%20%D0%9A%D1%83%D0%B2%D1%88%D0%B8%D0%BD%D0%BA%D0%B8.cpp "69.1. Кувшинки")
    * [93. LCS](https://github.com/vbobovoz/Algorithms-and-Data-Structures/blob/main/Dynamic%20Programming/93.%20LCS.cpp "93. LCS")
-   * [Индивидуальная задача: 59.1.Репортаж](https://github.com/vbobovoz/Algorithms-and-Data-Structures/blob/main/Dynamic%20Programming/IND_DP.%D0%A0%D0%B5%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%B6.59.1.cpp "Индивидуальная задача: 59.1. Репортаж")
+   * [Индивидуальная задача: 59.1. Репортаж](https://github.com/vbobovoz/Algorithms-and-Data-Structures/blob/main/Dynamic%20Programming/IND_DP.%D0%A0%D0%B5%D0%BF%D0%BE%D1%80%D1%82%D0%B0%D0%B6.59.1.cpp "Индивидуальная задача: 59.1. Репортаж")
    
 3. Data Structures and Graphs:
    * [0.1. Строительство дорог](https://github.com/vbobovoz/Algorithms-and-Data-Structures/blob/main/Data%20Structures%20and%20Graphs/0.1.%20%D0%A1%D1%82%D1%80%D0%BE%D0%B8%D1%82%D0%B5%D0%BB%D1%8C%D1%81%D1%82%D0%B2%D0%BE%20%D0%B4%D0%BE%D1%80%D0%BE%D0%B3.cpp "0.1. Строительство дорог")
