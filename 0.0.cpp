@@ -17,4 +17,4 @@ int main() {
 	}
 	fout << sum;
 	return 0;
-}
+} 
